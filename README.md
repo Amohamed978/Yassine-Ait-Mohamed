@@ -19,8 +19,6 @@ Bienvenue sur le dépôt de mon site web personnel académique. Ce site présent
 
 ## Accès au Site
 
-Le site est accessible à l'adresse : [https://amohamed978.github.io/Yassine-Ait-Mohamed/](https://amohamed978.github.io/Yassine-Ait-Mohamed/)
-
 ## Contact
 
 Pour toute question ou suggestion concernant ce site, n'hésitez pas à me contacter :
