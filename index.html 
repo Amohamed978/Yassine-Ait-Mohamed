@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yassine Ait Mohamed - Accueil</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Yassine Ait Mohamed</h1>
+        <p>Doctorant en géométrie algébrique et symplectique</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="recherche.html">Recherche</a></li>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="enseignement.html">Enseignement</a></li>
+            <li><a href="cv.html">CV</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <img src="images/profile.jpg" alt="Yassine Ait Mohamed" class="profile-img">
+
+        <section class="summary">
+            <h2>À propos de moi</h2>
+            <p>Je suis actuellement étudiant en première année de doctorat à l'Université de Sherbrooke, me spécialisant en géométrie algébrique et symplectique. Mes recherches portent principalement sur les dérivations dans les anneaux gradués et les algèbres non commutatives.</p>
+        </section>
+
+        <section>
+            <h2>Dernières Actualités</h2>
+            <ul>
+                <li>Nouvelle publication soumise : "On gr-prime and gr-semiprime rings with homogeneous derivations"</li>
+                <li>Début de mon doctorat à l'Université de Sherbrooke en 2024</li>
+                <li>Présentation au séminaire de Non-commutative Algebra sur les anneaux gradués en février 2023</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Yassine Ait Mohamed. Tous droits réservés.</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
